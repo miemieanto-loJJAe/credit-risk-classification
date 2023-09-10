@@ -4,13 +4,13 @@ The purpose of this analysis is to train a model for loan risks. A historical le
 RESULTS 
 
 * Machine Learning Model 1:
-•   Precision for low-risk loan (0) – 100%
-•   Precision for high-risk loan (1) – 85%
-•   Recall for low-risk loan – 99%
-•   Recall for high-risk – 91%
-•   F1-score for low-risk – 100%
-•   F1-score for high-risk – 88%
-•   Balanced Accuracy – ~95%
+*   Precision for low-risk loan (0) – 100%
+*   Precision for high-risk loan (1) – 85%
+*   Recall for low-risk loan – 99%
+*   Recall for high-risk – 91%
+*   F1-score for low-risk – 100%
+*   F1-score for high-risk – 88%
+*   Balanced Accuracy – ~95%
 
 
 * Machine Learning Model 2:
